@@ -1,0 +1,20 @@
+# Bỏ qua tất cả
+*
+
+# Giữ lại thư mục modules/restaurant
+!/modules/
+!/modules/restaurant/
+
+# Giữ lại theme admin_default/modules/restaurant
+!/themes/
+!/themes/admin_default/
+!/themes/admin_default/modules/
+!/themes/admin_default/modules/restaurant/
+
+# Giữ lại theme default/modules/restaurant
+!/themes/default/
+!/themes/default/modules/
+!/themes/default/modules/restaurant/
+
+# Luôn giữ file .gitignore
+!.gitignore
